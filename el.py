@@ -21,7 +21,7 @@ from colorama import Fore, Style
 
 # Making color variables so we can use it later.
 yellow = Fore.YELLOW # Returns yellow color.
-blue = Fore.BLUE # Returns blue color.
+cyan = Fore.CYAN # Returns blue color.
 red = Fore.RED # Returns red color.
 resetStyle = Style.RESET_ALL # Resets color/style
 bright = Style.BRIGHT # Returns text brighter than normal.
