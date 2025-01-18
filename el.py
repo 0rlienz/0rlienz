@@ -21,8 +21,8 @@ from colorama import Fore, Style
 
 # Making color variables so we can use it later.
 yellow = Fore.YELLOW # Returns yellow color.
-cyan = Fore.CYAN # Returns blue color.
-red = Fore.RED # Returns red color.
+blue = Fore.BLUE # Returns blue color.
+white = Fore.WHITE # Returns red color.
 resetStyle = Style.RESET_ALL # Resets color/style
 bright = Style.BRIGHT # Returns text brighter than normal.
 # Defining our title [DDoS Attack] with color variables we made.
