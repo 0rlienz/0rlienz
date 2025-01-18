@@ -21,7 +21,7 @@ from colorama import Fore, Style
 
 # Making color variables so we can use it later.
 yellow = Fore.YELLOW # Returns yellow color.
-cyan = Fore.CYAN # Returns blue color.
+blue = Fore.BLUE # Returns blue color.
 red = Fore.RED # Returns red color.
 resetStyle = Style.RESET_ALL # Resets color/style
 bright = Style.BRIGHT # Returns text brighter than normal.
@@ -41,7 +41,7 @@ class DDoS_Tool():
                 \033[1;35m▒▒██       ▒▒██       ▒▒██ ▒▒██  ▒▒██▒██▒██  ▒▒██ ▒▒██
                 ▒▒███████  ▒▒███████  ▒▒██ ▒▒██  ▒▒██▒▒████  ▒▒███████
                 
-                💜💛\033[1;33m============ Cyber People Attack Team ============💛💜  
+                💜💛\033[1;33m============   Cyber People Attack   ============💛💜  
            
 {resetStyle}''')
         
